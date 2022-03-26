@@ -1,0 +1,14 @@
+body {
+    background-color: linen;
+  }
+  
+  h1 {
+    background-color:saddlebrown;
+    color: maroon;
+    margin-left: 40px;
+  }
+
+  p {
+    color:blue;
+    background-color:red;
+  }
